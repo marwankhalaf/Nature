@@ -1,3 +1,5 @@
+// start logic
+
 let menu = document.querySelector('.fa-bars');
 let navbar = document.querySelector('.navbar');
 
